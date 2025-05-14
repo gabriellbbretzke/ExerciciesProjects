@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Backoffice\" />
+    <Folder Include="Player\" />
+    <Folder Include="Store\" />
+  </ItemGroup>
+
+</Project>
